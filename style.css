@@ -1,8 +1,4 @@
-@font-face {
-    font-family: 'giga';
-    src: url('https://github.com/liamung/liamung.github.io/blob/main/Giga.woff') format('woff');
-}
 body{
     margin: 20px;
-    font-family: 'giga', sans-serif;
+    font-family: sans-serif;
 }
