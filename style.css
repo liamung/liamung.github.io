@@ -8,6 +8,18 @@ body {
   font-family: monospace;
 }
 
+.project{
+  width: 100%;
+  height: 100%;
+  margin: 0 auto;
+  background-color: lightgray;
+  padding: 70px;
+  position: relative;
+  margin: 70px 0;
+  background-color: #FE791D;
+  color: black;
+}
+
 .banner {
   width: 100%;
   height: 100vh;
