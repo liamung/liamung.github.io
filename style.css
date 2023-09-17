@@ -96,3 +96,24 @@ transition: 0.5s;
 .navbar ul li:hover::after{
 width: 100%;
 }
+
+a { 
+	text-decoration: none;
+	padding: 0 15px;
+	font-size: 20px;
+	font-weight: 300;
+}  
+.sliding {
+  background: #fff;
+  overflow: hidden;
+  color: #000;   
+  margin: 12px 0;
+  transition: all .5s ease-in-out;
+  height: 0;
+}
+.sliding p{
+	padding:0 15px;	
+}
+.sliding:target {
+  height: 350px;
+}
