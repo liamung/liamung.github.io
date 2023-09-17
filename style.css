@@ -8,15 +8,15 @@ body {
   font-family: monospace;
 }
 
-.project{
+.project{ 
+  background-color: #FE791D;
+  color: black;
   width: 100%;
   height: 100%;
   margin: 0 auto;
   padding: 70px;
   position: relative;
   margin: 70px 0;
-  background-color: #FE791D;
-  color: black;
 }
 
 .banner {
